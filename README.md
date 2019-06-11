@@ -40,6 +40,7 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 
 ## Supported Versions ##
 #### watchOS 2: ####
+> * [2.1 (13S661)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/2.1.zip) `14 December 2015`
 > * [2.0 (13S344)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/2.0.zip) `16 September 2015`
 
 ## External links ##
