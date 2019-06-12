@@ -39,6 +39,9 @@ optional arguments:
 If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` to match the path of the existence of **Xcode.app**.
 
 ## Supported Versions ##
+#### watchOS 3: ####
+> * [3.0 (14S326)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/3.0.zip) `13 October 2016`
+
 #### watchOS 2: ####
 > * [2.2 (13V144)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/2.2.zip) `9 March 2016`
 > * [2.1 (13S661)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/2.1.zip) `14 December 2015`
