@@ -42,6 +42,9 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 #### watchOS 6: ####
 > * [6.0 (17R5491t)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/6.0.zip) `31 May 2019`
 
+#### watchOS 4: ####
+> * [4.0 (15R372)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/4.0.zip) `29 August 2017`
+
 #### watchOS 3: ####
 > * [3.2 (14V249)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/3.2.zip) `17 March 2017`
 > * [3.1 (14S471)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/3.1.zip) `24 October 2016`
@@ -53,5 +56,5 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 > * [2.0 (13S344)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/2.0.zip) `16 September 2015`
 
 ## External links ##
-* [Official Latest Xcode](https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip)
+* [Official Latest Xcode 11 Beta Build (11M336W)](https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip)
 
