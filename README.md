@@ -42,6 +42,9 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 #### watchOS 6: ####
 > * [6.0 (17R5491t)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/6.0.zip) `31 May 2019`
 
+#### watchOS 5: ####
+> * [5.0 (16R363)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/5.0.zip) `29 August 2018`
+
 #### watchOS 4: ####
 > * [4.3 (15T212)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/4.3.zip) `14 March 2018`
 > * [4.2 (15S102)](https://github.com/isatria/Xcode-watchOS-DeviceSupport/raw/master/src/4.2.zip) `15 November 2017`
